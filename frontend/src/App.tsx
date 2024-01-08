@@ -2,10 +2,6 @@ import React, { useEffect, useState } from "react";
 
 import "./App.css";
 
-interface bla {
-  a: string;
-}
-
 function App() {
   const [message, setMessage] = useState();
   useEffect(() => {

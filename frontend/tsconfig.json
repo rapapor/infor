@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "strict": false,
+      "baseUrl": "./src",
+      "paths": {
+        "*": ["*.ts", "*.tsx", "*.js", "*.jsx"]
+      }
+    }
+  }
+  
